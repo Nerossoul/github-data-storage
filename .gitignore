@@ -118,3 +118,6 @@ typings/
 
 # TernJS port file
 .tern-port
+
+# MacOS hidden files
+.DS_Store
