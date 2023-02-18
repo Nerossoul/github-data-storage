@@ -1,0 +1,13 @@
+{
+  "root": true,
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "parserOptions": {
+    "parser": "@babel/eslint-parser",
+    "sourceType": "module"
+  },
+  "extends": ["prettier", "plugin:prettier/recommended"],
+  "plugins": ["prettier"]
+}
